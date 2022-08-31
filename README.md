@@ -2,6 +2,8 @@
 
 A simple tool to quickly generate unlimited random passwords. Keep your accounts safe!
 
+Check it here: [https://random-password-generator.github.io](https://random-password-generator.github.io)
+
 
 ## Credits
 
